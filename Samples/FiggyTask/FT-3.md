@@ -2,17 +2,19 @@
 tags:
   - task
   - "#inbox"
-issued: 
+issued: 2025-04-08
 due: 
 started: 
 done: 
 parent: "[[Project Template]]"
 aliases:
-  - Task Template
+  - Update Readme
 ---
 
 >[!task] 
-Task Template
+Update the README
+
+
 
 
 

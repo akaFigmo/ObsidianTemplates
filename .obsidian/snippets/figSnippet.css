@@ -1,0 +1,24 @@
+.callout[data-callout="task"] {
+    --callout-color: 0, 255, 255;
+    --callout-icon: lucide-check;
+}
+
+.callout[data-callout="project"] {
+    --callout-color: 0, 255, 255;
+    --callout-icon: lucide-notebook-tabs;
+}
+
+.callout[data-callout="plan"] {
+    --callout-color: 255, 255, 100;
+    --callout-icon: lucide-chart-gantt;
+}
+
+.callout[data-callout="goal"] {
+    --callout-color: 0, 255, 100;
+    --callout-icon: lucide-goal;
+}
+
+.callout[data-callout="cue"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: lucide-brain;
+}
