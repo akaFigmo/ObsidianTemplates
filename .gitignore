@@ -1,0 +1,5 @@
+# Obsidian Settings
+.obsidian/*
+!.obsidian/snippets/
+.obsidian/snippets/*
+!.obsidian/snippets/figSnippet.css
